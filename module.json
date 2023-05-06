@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "FastValk Custom",
+    "author": "Hark",
+    "description": ":Eyes:",
+    "version": "42",
+    "options": {
+        "niceName": "FastValk Custom",
+        "reloadable": true
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+    }
+}

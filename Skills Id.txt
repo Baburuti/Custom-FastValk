@@ -1,0 +1,172 @@
+
+11200	Common	Common	Valkyrie	Slash XII	False	hit 1	icon_skills.combo_tex
+11201	Common	Common	Valkyrie	Slash XII	False	hit 2	icon_skills.combo_tex
+11202	Common	Common	Valkyrie	Slash XII	False	hit 3	icon_skills.combo_tex
+11203	Common	Common	Valkyrie	Slash XII	False	hit 4	icon_skills.combo_tex
+11230	Common	Common	Valkyrie	Slash XII	True	hit 1	icon_skills.combo_tex
+11299	Common	Common	Valkyrie	Slash XII	False		icon_skills.combo_tex
+
+16200	Common	Common	Valkyrie	Slash XII	False	hit 1	icon_skills.combo_tex
+16201	Common	Common	Valkyrie	Slash XII	False	hit 2	icon_skills.combo_tex
+16202	Common	Common	Valkyrie	Slash XII	False	hit 3	icon_skills.combo_tex
+16203	Common	Common	Valkyrie	Slash XII	False	hit 4	icon_skills.combo_tex
+16230	Common	Common	Valkyrie	Slash XII	True	hit 1	icon_skills.combo_tex
+
+20700	Common	Common	Valkyrie	Overhead Slash VII	False		icon_skills.fatalshot_tex
+20730	Common	Common	Valkyrie	Overhead Slash VII	True		icon_skills.fatalshot_tex
+20799	Common	Common	Valkyrie	Overhead Slash VII	False		icon_skills.fatalshot_tex
+
+25700	Common	Common	Valkyrie	Overhead Slash VII	False		icon_skills.fatalshot_tex
+25730	Common	Common	Valkyrie	Overhead Slash VII	True		icon_skills.fatalshot_tex
+
+30930	Common	Common	Valkyrie	Glaive Strike IX	True		icon_skills.throwglave_tex
+30999	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
+
+35900	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
+35930	Common	Common	Valkyrie	Glaive Strike IX	True		icon_skills.throwglave_tex
+
+41000	Common	Common	Valkyrie	Charge X	False		icon_skills.dashcut_tex
+41010	Common	Common	Valkyrie	Charge X	False		icon_skills.dashcut_tex
+41011	Common	Common	Valkyrie	Charge X	False		icon_skills.dashcut_tex
+41099	Common	Common	Valkyrie	Charge X	False		icon_skills.dashcut_tex
+
+46000	Common	Common	Valkyrie	Charge X	False		icon_skills.dashcut_tex
+46010	Common	Common	Valkyrie	Charge X	False		icon_skills.dashcut_tex
+
+50500	Common	Common	Valkyrie	Maelstrom V	False		icon_skills.twister_tex
+50530	Common	Common	Valkyrie	Maelstrom V	True		icon_skills.twister_tex
+50599	Common	Common	Valkyrie	Maelstrom V	False		icon_skills.twister_tex
+
+55500	Common	Common	Valkyrie	Maelstrom V	False		icon_skills.twister_tex
+55530	Common	Common	Valkyrie	Maelstrom V	True		icon_skills.twister_tex
+
+61200	Common	Common	Valkyrie	Leaping Slash XII	False		icon_skills.risingshot_tex
+61230	Common	Common	Valkyrie	Leaping Slash XII	True		icon_skills.risingshot_tex
+61299	Common	Common	Valkyrie	Leaping Slash XII	False		icon_skills.risingshot_tex
+
+66200	Common	Common	Valkyrie	Leaping Slash XII	False		icon_skills.risingshot_tex
+66230	Common	Common	Valkyrie	Leaping Slash XII	True		icon_skills.risingshot_tex
+
+70900	Common	Common	Valkyrie	Spinning Death IX	False	hit 1	icon_skills.helicoptercuts_tex
+70901	Common	Common	Valkyrie	Spinning Death IX	False	hit 2	icon_skills.helicoptercuts_tex
+70902	Common	Common	Valkyrie	Spinning Death IX	False	hit 3	icon_skills.helicoptercuts_tex
+70930	Common	Common	Valkyrie	Spinning Death IX	True		icon_skills.helicoptercuts_tex
+70999	Common	Common	Valkyrie	Spinning Death IX	False		icon_skills.helicoptercuts_tex
+
+75900	Common	Common	Valkyrie	Spinning Death IX	False	hit 1	icon_skills.helicoptercuts_tex
+75901	Common	Common	Valkyrie	Spinning Death IX	False	hit 2	icon_skills.helicoptercuts_tex
+75902	Common	Common	Valkyrie	Spinning Death IX	False	hit 3	icon_skills.helicoptercuts_tex
+75930	Common	Common	Valkyrie	Spinning Death IX	True		icon_skills.helicoptercuts_tex
+
+80100	Common	Common	Valkyrie	Titansbane I	False	hit 1	icon_skills.fullmoon_tex
+80101	Common	Common	Valkyrie	Titansbane I	False	hit 2	icon_skills.fullmoon_tex
+80130	Common	Common	Valkyrie	Titansbane I	True		icon_skills.fullmoon_tex
+80199	Common	Common	Valkyrie	Titansbane I	False		icon_skills.fullmoon_tex
+85100	Common	Common	Valkyrie	Titansbane I	False	hit 1	icon_skills.fullmoon_tex
+85101	Common	Common	Valkyrie	Titansbane I	False	hit 2	icon_skills.fullmoon_tex
+85130	Common	Common	Valkyrie	Titansbane I	True		icon_skills.fullmoon_tex
+
+91100	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
+91130	Common	Common	Valkyrie	Ground Bash XI	True		icon_skills.cutting_tex
+91199	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
+
+96100	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
+96130	Common	Common	Valkyrie	Ground Bash XI	True		icon_skills.cutting_tex
+
+101100	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+101120	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+101130	Common	Common	Valkyrie	Dream Slash XI	True		icon_skills.split_tex
+101199	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+
+106100	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+106120	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+106130	Common	Common	Valkyrie	Dream Slash XI	True		icon_skills.split_tex
+
+115400	Common	Common	Valkyrie	Shining Crescent IV	False	hit 1	icon_skills.crescentcut_tex
+115401	Common	Common	Valkyrie	Shining Crescent IV	False	hit 2	icon_skills.crescentcut_tex
+115430	Common	Common	Valkyrie	Shining Crescent IV	True	hit 1	icon_skills.crescentcut_tex
+115431	Common	Common	Valkyrie	Shining Crescent IV	True	hit 2	icon_skills.crescentcut_tex
+
+120100	Common	Common	Valkyrie	Ragnarok I	False		icon_skills.redmoon_tex
+120130	Common	Common	Valkyrie	Ragnarok I	True		icon_skills.redmoon_tex
+120199	Common	Common	Valkyrie	Ragnarok I	False		icon_skills.redmoon_tex
+
+131100	Common	Common	Valkyrie	Bloodflower XI	False		icon_skills.brust_tex
+131130	Common	Common	Valkyrie	Bloodflower XI	True		icon_skills.brust_tex
+131199	Common	Common	Valkyrie	Bloodflower XI	False		icon_skills.brust_tex
+
+136100	Common	Common	Valkyrie	Bloodflower XI	False		icon_skills.brust_tex
+136130	Common	Common	Valkyrie	Bloodflower XI	True		icon_skills.brust_tex
+
+140100	Common	Common	Valkyrie	Evasion I	False		icon_skills.moonshadow_tex
+140101	Common	Common	Valkyrie	Evasion I	False	hit 2	icon_skills.moonshadow_tex
+140199	Common	Common	Valkyrie	Evasion I	False		icon_skills.moonshadow_tex
+
+151100	Common	Common	Valkyrie	Windslash XI	False		icon_skills.crossway_tex
+151130	Common	Common	Valkyrie	Windslash XI	True		icon_skills.crossway_tex
+151199	Common	Common	Valkyrie	Windslash XI	False		icon_skills.crossway_tex
+
+156100	Common	Common	Valkyrie	Windslash XI	False		icon_skills.crossway_tex
+156130	Common	Common	Valkyrie	Windslash XI	True		icon_skills.crossway_tex
+
+161200	Common	Common	Valkyrie	Runeburst XII	False		icon_skills.moonlightdash_tex
+161220	Common	Common	Valkyrie	Runeburst XII	False		icon_skills.moonlightdash_tex
+161230	Common	Common	Valkyrie	Runeburst XII	True		icon_skills.moonlightdash_tex
+161299	Common	Common	Valkyrie	Runeburst XII	False		icon_skills.moonlightdash_tex
+
+166200	Common	Common	Valkyrie	Runeburst XII	False		icon_skills.moonlightdash_tex
+166220	Common	Common	Valkyrie	Runeburst XII	False		icon_skills.moonlightdash_tex
+166230	Common	Common	Valkyrie	Runeburst XII	True		icon_skills.moonlightdash_tex
+
+170100	Common	Common	Valkyrie	Balder's Tears	False		icon_skills.moongracebuff_tex
+170199	Common	Common	Valkyrie	Balder's Tears	False		icon_skills.moongracebuff_tex
+
+186000	Common	Common	Valkyrie	Retaliate X	False		icon_skills.risingattack_tex
+
+190100	Common	Common	Valkyrie	Reclamation I	False		icon_skills.moonlight_tex
+190130	Common	Common	Valkyrie	Reclamation I	True		icon_skills.moonlight_tex
+190199	Common	Common	Valkyrie	Reclamation I	False		icon_skills.moonlight_tex
+
+200800	Common	Common	Valkyrie	Backstab VIII	False		icon_skills.mooncatch_tex
+200899	Common	Common	Valkyrie	Backstab VIII	False		icon_skills.mooncatch_tex
+
+205800	Common	Common	Valkyrie	Backstab VIII	False		icon_skills.mooncatch_tex
+
+210100	Common	Common	Valkyrie	Dark Herald I	False		icon_skills.moongravity_tex
+210120	Common	Common	Valkyrie	Dark Herald I	False		icon_skills.moongravity_tex
+210199	Common	Common	Valkyrie	Dark Herald I	False		icon_skills.moongravity_tex
+215100	Common	Common	Valkyrie	Dark Herald I	False		icon_skills.moongravity_tex
+215120	Common	Common	Valkyrie	Dark Herald I	False		icon_skills.moongravity_tex
+
+230100	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+230101	Common	Common	Valkyrie	Gungnir's Bite	True		icon_skills.halfmoon_tex
+230102	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+230109	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+230199	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+235100	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+235101	Common	Common	Valkyrie	Gungnir's Bite	True		icon_skills.halfmoon_tex
+235102	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+235109	Common	Common	Valkyrie	Gungnir's Bite	False		icon_skills.halfmoon_tex
+
+240100	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+240101	Common	Common	Valkyrie	Twilight Waltz	True		icon_skills.rageslash_tex
+240102	Common	Common	Valkyrie	Twilight Waltz	True		icon_skills.rageslash_tex
+240103	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+240104	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+240109	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+240199	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+245100	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+245101	Common	Common	Valkyrie	Twilight Waltz	True		icon_skills.rageslash_tex
+245102	Common	Common	Valkyrie	Twilight Waltz	True		icon_skills.rageslash_tex
+245103	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+245104	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+245109	Common	Common	Valkyrie	Twilight Waltz	False		icon_skills.rageslash_tex
+
+250100	Common	Common	Valkyrie	Godsfall	False		icon_skills.warbegin_tex
+250101	Common	Common	Valkyrie	Godsfall	True		icon_skills.warbegin_tex
+250102	Common	Common	Valkyrie	Godsfall	False		icon_skills.warbegin_tex
+250103	Common	Common	Valkyrie	Godsfall	False		icon_skills.warbegin_tex
+250109	Common	Common	Valkyrie	Godsfall	False		icon_skills.warbegin_tex
+250131	Common	Common	Valkyrie	Godsfall	True		icon_skills.warbegin_tex
+250132	Common	Common	Valkyrie	Godsfall	False		icon_skills.warbegin_tex
+250199	Common	Common	Valkyrie	Godsfall	False		icon_skills.warbegin_tex
