@@ -1,3 +1,5 @@
+NEEDS NGSP IN ORDER TO WORK
+
 Command :
 
 !vk	 : Enable/Disable (Enable by default)
